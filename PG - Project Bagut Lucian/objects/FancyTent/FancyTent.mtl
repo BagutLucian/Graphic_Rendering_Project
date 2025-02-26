@@ -1,0 +1,92 @@
+# Blender 4.3.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Banjo
+Ns 2.231451
+Ka 1.000000 1.000000 1.000000
+Ks 0.023619 0.023619 0.023619
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Banjo_baseColor.png
+
+newmtl BzierCurve__0
+Ns 159.999985
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Material.001
+Ns 41.945923
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+illum 2
+map_Kd Material_baseColor.png
+map_Ke Material_emissive.png
+map_d Material_baseColor.png
+
+newmtl TT_material_override-pillow1.009
+Ns 0.113779
+Ka 1.000000 1.000000 1.000000
+Ks 0.179048 0.179048 0.179048
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd TT_material_override-pillow1.009_baseColor.png
+
+newmtl Tent
+Ns 38.399990
+Ka 1.000000 1.000000 1.000000
+Ks 0.136381 0.136381 0.136381
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Tent_baseColor.png
+
+newmtl floor
+Ns 4.293392
+Ka 1.000000 1.000000 1.000000
+Ks 0.078476 0.078476 0.078476
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd floor_baseColor.png
+
+newmtl ground2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.026667 0.026667 0.026667
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ground2_baseColor.png
+
+newmtl plant
+Ns 44.954697
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd plant_baseColor.png
+
+newmtl small_props
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.136381 0.136381 0.136381
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd small_props_baseColor.png
+map_Ke small_props_emissive.png
